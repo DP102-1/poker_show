@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //wong
-//
+//溫溫
 //
 //
 //
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     List<Integer> poker_h = new ArrayList<>();
     List<Integer> poker_c = new ArrayList<>();
 
-    // 溫溫
+
 
 
     @Override
