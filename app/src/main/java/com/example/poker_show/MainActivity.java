@@ -2,7 +2,6 @@ package com.example.poker_show;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;;
 import android.view.View;
 import android.widget.ImageView;
@@ -11,6 +10,12 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
+
+//wong
+//
+//
+//
+//
 
 
 public class MainActivity extends AppCompatActivity {
@@ -47,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                                           int progress,
                                           boolean fromUser) {
                 num =+ progress;
+                num++;
                 poker_show();
                 number.setText(num);
             }
